@@ -11,7 +11,7 @@
     **Genomic Tools:** GC Content analysis
     ※Interests:※ Stroke Genomics, Data Visualization
 ## 🔗 Feel free to reach out:
-* *Email:* [gargi.chakraborty.187@gmail.com]
+* *Email:* gargi.chakraborty.187@gmail.com
 * 📸 *Instagram:* [@chakraborty__gargi](https://www.instagram.com/your_username)
 * 💬 *Discord:* gargi0883_84194
 
