@@ -12,7 +12,7 @@
     ※Interests:※ Stroke Genomics, Data Visualization
 ## 🔗 Feel free to reach out:
 * *Email:* gargi.chakraborty.187@gmail.com
-* 📸 *Instagram:* [@chakraborty__gargi](https://www.instagram.com/your_username)
+* 📸 *Instagram:* [@chakraborty__gargi](https://www.instagram.com/chakraborty__gargi)
 * 💬 *Discord:* gargi0883_84194
 
  
