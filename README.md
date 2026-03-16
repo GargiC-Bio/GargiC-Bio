@@ -1,6 +1,6 @@
 ## Hi,I'm Gargi✨
 
- 📅 I am currently in my gap year and committing 2026 to active self-study in ⁕⁕Bioinformatics⁕⁕ and ⁕⁕Genommics⁕⁕ while preparing for University Admission Tests. My goal is to enter a Biotechnology program with a strong foundation in computational biology.
+ 📅 I am currently in my gap year and committing 2026 to active self-study in ⁕⁕Bioinformatics⁕⁕ and ⁕⁕Genomics⁕⁕ while preparing for University Admission Tests. My goal is to enter a Biotechnology program with a strong foundation in computational biology.
 ### 🧬 I am specializing in Genomic Data Science through Coursera,focusing on:
        **Python for Genomic Data Science:** 
       Developing custom tools for DNA sequence analysis.
