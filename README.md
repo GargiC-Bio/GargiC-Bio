@@ -2,7 +2,7 @@
 
  📅 I am currently in my gap year and committing 2026 to active self-study in ⁕⁕Bioinformatics⁕⁕ and ⁕⁕Genomics⁕⁕ while preparing for University Admission Tests. My goal is to enter a Biotechnology program with a strong foundation in computational biology.
 ### 🎓 Certifications:
-    **{Python for Genomic Data Science} https://www.google.com/search?q=https://coursera.org/share/539ce0d4cec1dbb165b62722f295a02e**
+    **{Python for Genomic Data Science} https://coursera.org/share/539ce0d4cec1dbb165b62722f295a02e**
        - Johns Hopkins University (via Coursera)
 ### 🧠 I am currently working on a project named ‴ 'Family-based stroke risk prediction' ‴ 
        I aim to indentify specific genetic markers in order to predict stroke risk within family bloodline by utilizing Biopython.
